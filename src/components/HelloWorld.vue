@@ -34,7 +34,7 @@
 
 <script>
 export default {
-  name: '头条',
+  name: 'HelloWorld',
   props: {
     msg: String
   }
